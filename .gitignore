@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.hypothesis/
+
+build/
+*.o
+*.out
+
+crashes/raw/*.tmp
+.DS_Store
