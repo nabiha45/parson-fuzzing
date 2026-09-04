@@ -1,0 +1,9 @@
+*
+!Dockerfile
+!harness/
+!harness/**
+!parson/
+!parson/parson.c
+!parson/parson.h
+**/__pycache__/
+**/*.exe
